@@ -40,13 +40,6 @@ Repositório de trabalhos e atividades da faculdade
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![Vinicius' GitHub stats](https://github-readme-stats.vercel.app/api?username=vlacerda93&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlacerda93&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Objetivos 2026
 
 - 📚 Concluir o curso de JavaScript Algorithms and Data Structures no FreeCodeCamp
