@@ -29,10 +29,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio (EAD), apaix
 
 ## 📂 Projetos em Destaque
 
-### 🎨 [Warhammer40k](https://github.com/vlacerda93/Warhammer40k)
+### 🎨 [Warhammer40k](https://vlacerda93.github.io/vlacerda93/Warhammer40k)
 Projeto de portfólio focado no universo Warhammer 40K - Aprendendo e transformando linhas de código em inovação
 
-### 🥋 [DBKARATE](https://github.com/vlacerda93/DBKARATE)
+### 🥋 [DBKARATE](https://vlacerda93.github.io/vlacerda93/DBKARATE)
 Landing page para o Dojo Bushi - Praticando desenvolvimento web com HTML e CSS
 
 ### 📚 [Estacio](https://github.com/vlacerda93/Estacio)
