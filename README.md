@@ -5,7 +5,8 @@
 Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio (EAD), apaixonado por tecnologia e desenvolvimento web. Estou em constante evolução, aprendendo novas habilidades e construindo projetos práticos.
 
 💼 **Aspirante a Profissional de Segurança da Informação**  
-🎓 Cursando **FreeCodeCamp** - Responsive Web Design  
+🎓 Cursando **FreeCodeCamp** - JavaScript Algorithms and Data Structures  
+🎓 Concluí o curso de **Responsive Web Design** no FreeCodeCamp
 🔐 Interessado em **Cybersecurity e DevSecOps**
 
 ---
@@ -48,7 +49,7 @@ Repositório de trabalhos e atividades da faculdade
 
 ## 🎯 Objetivos 2026
 
-- 🎓 Concluir cursos de Responsive Web Design no FreeCodeCamp
+- 📚 Concluir o curso de JavaScript Algorithms and Data Structures no FreeCodeCamp
 - 🔐 Iniciar estudos aprofundados em Cybersecurity (Hackers do Bem)
 - 💻 Desenvolver mais projetos práticos em JavaScript
 - 📱 Aprender desenvolvimento mobile
@@ -59,8 +60,6 @@ Repositório de trabalhos e atividades da faculdade
 ## 📫 Como me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlacerda93)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-
 ---
 
 ⚡ **Fun fact:** Além de código, também sou apaixonado por Warhammer 40K, artes marciais (karatê) e geopolítica! 🎮🥋🌍
