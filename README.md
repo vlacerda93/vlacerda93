@@ -2,7 +2,7 @@
 
 ## 🎯 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio (EAD), apaixonado por tecnologia e desenvolvimento web. Estou em constante evolução, aprendendo novas habilidades e construindo projetos práticos.
+Estudante de Análise e Desenvolvimento de Sistemas na Estácio, apaixonado por tecnologia e desenvolvimento web. Estou em constante evolução, aprendendo novas habilidades e construindo projetos práticos.
 
 💼 **Aspirante a Profissional de Segurança da Informação**  
 🎓 Cursando **FreeCodeCamp** - JavaScript Algorithms and Data Structures  
