@@ -1,58 +1,60 @@
-# Olá! Eu sou o Vinicius Lacerda 👋
+# Hi, I'm Vinicius Lacerda 👋
 
-## 🎯 Sobre mim
+## 👨‍💻 About Me
 
-Estudante de Análise e Desenvolvimento de Sistemas na Estácio, apaixonado por tecnologia e desenvolvimento web. Estou em constante evolução, aprendendo novas habilidades e construindo projetos práticos.
+Software Developer and Systems Analysis student at Estácio(2/5). I specialize in building secure, high-performance web applications and developing tools for data analysis and security.
 
-💼 **Aspirante a Profissional de Segurança da Informação**  
-🎓 Cursando **FreeCodeCamp** - JavaScript Algorithms and Data Structures  
-🎓 Concluí o curso de **Responsive Web Design** no FreeCodeCamp
-🔐 Interessado em **Cybersecurity e DevSecOps**
+I have practical experience delivering professional web solutions for real-world clients, focusing on responsive design, clean code, and user experience.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Skills & Technologies
 
-### Linguagens
+### Languages & Core
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Ferramentas e Plataformas
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📂 Projetos em Destaque
+## 💼 Professional Projects (Production)
 
-### 🎨 [Warhammer40k](https://vlacerda93.github.io/Warhammer40k)
-Projeto de portfólio focado no universo Warhammer 40K - Aprendendo e transformando linhas de código em inovação
+### ⛵ [Escuna Mero](https://www.merotur.com.br/)
+Full web solution for a maritime tourism company. Focused on SEO, responsive design, and intuitive booking flow.
+* **Tech:** HTML5, CSS3, JavaScript.
 
-### 🥋 [DBKARATE](https://vlacerda93.github.io/DBKARATE)
-Landing page para o Dojo Bushi - Praticando desenvolvimento web com HTML e CSS
+### 🥋 [DBKaratê](https://vlacerda93.github.io/DBKARATE/)
+Professional landing page for **Dojo Bushi**. Designed to improve local online presence and student conversion.
+* **Tech:** HTML5, CSS3.
 
-### 📚 [Estacio](https://github.com/vlacerda93/Estacio)
-Repositório de trabalhos e atividades da faculdade
-
----
-
-## 🎯 Objetivos 2026
-
-- 📚 Concluir o curso de JavaScript Algorithms and Data Structures no FreeCodeCamp
-- 🔐 Iniciar estudos aprofundados em Cybersecurity (Hackers do Bem)
-- 💻 Desenvolver mais projetos práticos em JavaScript
-- 📱 Aprender desenvolvimento mobile
-- 🐧 Explorar mais sobre Linux e ferramentas de segurança
+### 🖨️ [Printboard Gráfica](https://vlacerda93.github.io/printbord-landing-page/)
+Modern landing page for a local printing business, optimized for speed and visual impact.
+* **Tech:** HTML/CSS and Web Assets Optimization.
 
 ---
 
-## 📫 Como me encontrar
+## 📂 Featured Lab & Security Projects
 
+### 🕵️‍♂️ [Fuinha - Log Analyzer](https://github.com/vlacerda93/analizadordelogs)
+A security-focused tool developed to parse and analyze system logs, helping identify patterns or potential issues.
+* **Tech:** Python / Logic.
+
+### 🎨 [Warhammer40k Universe](https://vlacerda93.github.io/Warhammer40k)
+UI/UX exploration project based on the Warhammer 40K lore, focusing on advanced CSS and layout structures.
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-lacerda-8544b522a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlacerda93)
+
 ---
 
-⚡ **Fun fact:** Além de código, também sou apaixonado por Warhammer 40K, artes marciais (karatê) e geopolítica! 🎮🥋🌍
+⚡ **Fun fact:** Karate practitioner, Warhammer 40K fan, and Geopolitics enthusiast! 🥋🌍
