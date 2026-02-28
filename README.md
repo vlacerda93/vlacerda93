@@ -33,7 +33,7 @@ Full web solution for a maritime tourism company. Focused on SEO, responsive des
 Professional landing page for **Dojo Bushi**. Designed to improve local online presence and student conversion.
 * **Tech:** HTML5, CSS3.
 
-### 🖨️ [Printboard Gráfica](https://vlacerda93.github.io/printbord-landing-page/)
+### 🖨️ [Printboard Gráfica](https://printbord-landing-page.vercel.app/)
 Modern landing page for a local printing business, optimized for speed and visual impact.
 * **Tech:** HTML/CSS and Web Assets Optimization.
 
