@@ -2,59 +2,73 @@
 
 ## 👨‍💻 About Me
 
-Software Developer and Systems Analysis student at Estácio(2/5). I specialize in building secure, high-performance web applications and developing tools for data analysis and security.
+I am a **Systems Analysis and Development student** (2/5) with a background in Psychology and Network Technical support. This unique mix allows me to build software focusing not just on code, but on human behavior and system security.
 
-I have practical experience delivering professional web solutions for real-world clients, focusing on responsive design, clean code, and user experience.
+Currently, I'm exploring the intersection of **Cybersecurity (Blue Team)** and **AI interaction**. I'm a hands-on learner, building everything from production-ready web solutions to automated security tools. I am also deeply interested in how **Large Language Models (LLMs)** can be optimized through better context handling (RAG) and prompt engineering to serve as functional tools for developers.
 
 ---
 
 ## 🚀 Skills & Technologies
 
-### Languages & Core
+### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### Cybersecurity & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## 💼 Professional Projects (Production)
 
 ### ⛵ [Escuna Mero](https://www.merotur.com.br/)
-Full web solution for a maritime tourism company. Focused on SEO, responsive design, and intuitive booking flow.
-* **Tech:** HTML5, CSS3, JavaScript.
+Full-stack web solution for a maritime tourism company. 
+* **Key Features:** SEO optimization and responsive booking flow.
+* **Tech:** React, JavaScript, CSS3.
 
 ### 🥋 [DBKaratê](https://vlacerda93.github.io/DBKARATE/)
-Professional landing page for **Dojo Bushi**. Designed to improve local online presence and student conversion.
-* **Tech:** HTML5, CSS3.
-
-### 🖨️ [Printboard Gráfica](https://printbord-landing-page.vercel.app/)
-Modern landing page for a local printing business, optimized for speed and visual impact.
-* **Tech:** HTML/CSS and Web Assets Optimization.
+Professional landing page for **Dojo Bushi**. 
+* **Focus:** Improving local online presence and student conversion.
+* **Tech:** Semantic HTML5, Advanced CSS.
 
 ---
 
 ## 📂 Featured Lab & Security Projects
 
 ### 🕵️‍♂️ [Fuinha - Log Analyzer](https://github.com/vlacerda93/analizadordelogs)
-A security-focused tool developed to parse and analyze system logs, helping identify patterns or potential issues.
-* **Tech:** Python / Logic.
+A security-focused Python tool developed to monitor network usage and automate log alerts.
+* **Tech:** Python, Docker, Log Parsing Logic.
 
-### 🎨 [Warhammer40k Universe](https://vlacerda93.github.io/Warhammer40k)
-UI/UX exploration project based on the Warhammer 40K lore, focusing on advanced CSS and layout structures.
+### 🐛 [Google Bug Hunters Contribution](https://bughunters.google.com/) researcher in vulnerability reporting. I successfully submitted a technical report to **Google AI VRP**, focusing on AI content filter bypasses and security logic. Contributing to a safer and more capable model
+
+### 🎨 [Warhammer40k Brasil](https://vlacerda93.github.io/Warhammer40k)
+A project aimed at explaining what Warhammer is to the Brazilian community, constantly exploring and modifying new UX design options for various different themes.
+
+### 🧠 [Ikigai Project](https://github.com/vlacerda93)
+An ongoing exploration of LLM memory and personalized AI interaction, aiming to create more empathetic and context-aware digital assistants.
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vlacerda93/vlacerda93/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vlacerda93/vlacerda93/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vlacerda93/vlacerda93/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-lacerda-8544b522a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lacerdavinni/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlacerda93)
 
----
-
-⚡ **Fun fact:** Karate practitioner, Warhammer 40K fan, and Geopolitics enthusiast! 🥋🌍
+⚡ **Fun fact:** Karate practitioner (Goju-Ryu), Warhammer 40K lore enthusiast, and Geopolitics nerd! 🥋🌍
