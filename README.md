@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+system...;Access+granted.;Welcome+to+the+mainframe." alt="Typing SVG" />
+</div>
+
+```bash
+$ whoami
+vlacerda93
+$ status
+Securing the digital world...
+```
+
 # Hi, I'm Vinicius Lacerda 👋
 
 ## 👨‍💻 About Me
@@ -23,6 +34,12 @@ Currently, I'm exploring the intersection of **Cybersecurity (Blue Team)** and *
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF4F00?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-810505?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ---
 
@@ -55,6 +72,10 @@ A project aimed at explaining what Warhammer is to the Brazilian community, cons
 An ongoing exploration of LLM memory and personalized AI interaction, aiming to create more empathetic and context-aware digital assistants.
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vlacerda93&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
 ## 🐍 Contribution Snake
 
