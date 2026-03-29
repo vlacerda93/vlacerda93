@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+system...;Access+granted.;Welcome+to+the+mainframe." alt="Typing SVG" />
 </div>
 
-```bash
-$ whoami
-vlacerda93
-$ status
-Securing the digital world...
-```
 
 # Hi, I'm Vinicius Lacerda 👋
 
