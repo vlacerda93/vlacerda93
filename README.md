@@ -67,9 +67,6 @@ An ongoing exploration of LLM memory and personalized AI interaction, aiming to 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlacerda93&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
 ## 🐍 Contribution Snake
 
