@@ -49,7 +49,7 @@ Professional landing page for **Dojo Bushi**.
 * **Focus:** Improving local online presence and student conversion.
 * **Tech:** Semantic HTML5, Advanced CSS.
 
-### 🖨️ [PrintBord](https://vlacerda93.github.io/printbord-landing-page/)
+### 🖨️ [PrintBord](https://printbord-landing-page.vercel.app/)
 Professional landing page for **Printbord - Design & Criação**.
 * **Focus:** High-fidelity UI/UX, dynamic backgrounds, and AI chatbot optimizations.
 * **Tech:** HTML5, CSS3, JavaScript.
