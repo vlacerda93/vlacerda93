@@ -54,6 +54,11 @@ Professional landing page for **Printbord - Design & Criação**.
 * **Focus:** High-fidelity UI/UX, dynamic backgrounds, and AI chatbot optimizations.
 * **Tech:** HTML5, CSS3, JavaScript.
 
+### 👕 [PlayModa E-Commerce](https://playmoda-ecommerce.vercel.app/)
+High-end Dark Neon e-commerce prototype for custom geek and anime apparel.
+* **Focus:** Complete customer journey: rotating banner carousel, ViaCEP address autocomplete, quick-add sizes, dynamic coupons, shipping simulator, and persistent client dashboard with order history.
+* **Tech:** React, Zustand, Framer Motion, Lucide Icons, Vanilla CSS3.
+
 ---
 
 ## 📂 Featured Lab & Security Projects
