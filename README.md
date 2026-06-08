@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Systems Analysis and Development student** (2/5) with a background in Psychology and Network Technical support. This unique mix allows me to build software focusing not just on code, but on human behavior and system security.
+I am a **Systems Analysis and Development student** (3/5) with a background in Psychology and Network Technical support. This unique mix allows me to build software focusing not just on code, but on human behavior and system security.
 
 Currently, I'm exploring the intersection of **Cybersecurity (Blue Team)** and **AI interaction**. I'm a hands-on learner, building everything from production-ready web solutions to automated security tools. I am also deeply interested in how **Large Language Models (LLMs)** can be optimized through better context handling (RAG) and prompt engineering to serve as functional tools for developers.
 
