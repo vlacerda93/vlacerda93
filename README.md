@@ -75,6 +75,9 @@ A project aimed at explaining what Warhammer is to the Brazilian community, cons
 ### 🧠 [Ikigai Project](https://github.com/vlacerda93)
 An ongoing exploration of LLM memory and personalized AI interaction, aiming to create more empathetic and context-aware digital assistants.
 
+### 🌐 [VLPortifolio](https://vlacerda93.github.io/VLPortifolio/)
+A modern and responsive personal portfolio showcasing my journey in Web Development, DevOps, and Cybersecurity. Built with Glassmorphism, CSS Grid/Flexbox, and dynamic JS animations, while strictly adhering to a collaborative GitFlow architecture.
+
 ---
 
 
