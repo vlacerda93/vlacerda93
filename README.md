@@ -72,7 +72,7 @@ A security-focused Python tool developed to monitor network usage and automate l
 ### 🎨 [Warhammer40k Brasil](https://vlacerda93.github.io/Warhammer40k)
 A project aimed at explaining what Warhammer is to the Brazilian community, constantly exploring and modifying new UX design options for various different themes.
 
-### 🧠 [Ikigai Project](https://github.com/vlacerda93)
+### 🧠 [Ikigai Project](https://github.com/vlacerda93/espaco-voce-2026)
 An ongoing exploration of LLM memory and personalized AI interaction, aiming to create more empathetic and context-aware digital assistants.
 
 ### 🌐 [VLPortifolio](https://vlacerda93.github.io/VLPortifolio/)
